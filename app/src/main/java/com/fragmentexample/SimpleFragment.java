@@ -15,7 +15,7 @@ public class SimpleFragment extends Fragment {
 
     private static final int YES = 0;
     private static final int NO = 1;
-
+    private String string="";
     public SimpleFragment() {
         // Required empty public constructor
     }
